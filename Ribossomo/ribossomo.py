@@ -1,3 +1,9 @@
+# Disciplina: Bioinformática
+# Professor: Luiz Cláudio Demes
+# Aluno: Hilderlan
+
+######### Programa que simula um ribossomo ##########
+
 RNAm = 'GGC.CGA.UUA.AUG.CUU.AAA.UGC.GGC.CUA.AAU.UAU'
 
 print('\nRNA mensageiro a ser comparado com o codigo genetico:\n-> {}'.format(RNAm))
